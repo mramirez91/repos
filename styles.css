@@ -1,11 +1,44 @@
-div {
+h3 {
     color: white;
-    background-color: red;
+    background-color: rgb(81, 189, 235);
     font-size: 32px;
-    align-items: center;
+    text-align: center;
     font-weight: bold;
+}
 
+h4 {
+    text-align: justify;
+    font-size: 28;
+    font-weight: bold;
+    font-style: normal;
+    background-color: aqua;
+}
+
+
+h1 {
+    text-align: center;
+    color: darkcyan;
+}
+
+ul {
+    list-style: none;
+}
+
+
+.piz,
+.tac,
+.las {
+    background-color: rgb(113, 184, 234);
 }
 
 
 
+
+li {
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+button.las {
+    font-size: 20px;
+}
